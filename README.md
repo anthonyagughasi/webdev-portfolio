@@ -15,6 +15,26 @@ Check out the live version of my portfolio: [https://anthonyagughasi.github.io/w
 2. **Life Made Easy**: A nonprofit website built with WordPress, focusing on community development programs.
 3. **Webcreate**: A portfolio and services website built with WordPress, highlighting web development expertise.
 
+# Projects
+
+## Project 1: Goodland Africa
+
+- **Goodland Africa**  
+  An e-commerce website built with WordPress and WooCommerce, specializing in home interior decorations and furniture sales.  
+  **Live Website:** [goodland.africa](https://goodland.africa)
+
+## Project 2: Life Made Easy
+
+- **Life Made Easy**  
+  A nonprofit website built with WordPress, focusing on community development programs, skill development, and health services.  
+  **Live Website:** [lifemadeeasy.kesug.com](https://lifemadeeasy.kesug.com)
+
+## Project 3: Webcreate
+
+- **Webcreate**  
+  A portfolio and services website built with WordPress, highlighting web development expertise.  
+  **Live Website:** [webcreate.kesug.com](https://webcreate.kesug.com)
+
 ## Technologies Used
 - WordPress CMS
 - WooCommerce
